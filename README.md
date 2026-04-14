@@ -1,3 +1,12 @@
+# 👋 Hey there, I'm Krishnam Agrawal  
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&lines=DevOps+Engineer;Cloud+Engineer;DevSecOps+Engineer;Platform+Engineer;CI/CD+Specialist" />
+</p>
+
+
+
+
 # 👋 Hey there, I'm Krishnam Agrawal
 
 

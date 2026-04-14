@@ -1,16 +1,8 @@
-# 👋 Hey there, I'm Krishnam Agrawal  
+<h1 align="center">Hi 👋, I'm Krishnam Agrawal</h1>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&lines=DevOps+Engineer;Cloud+Engineer;DevSecOps+Engineer;Platform+Engineer;CI/CD+Specialist" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&lines=DevOps+Engineer;Cloud+Engineer;DevSecOps+Engineer;Platform+Engineer;Kubernetes+Expert;Automation+Lover;CI/CD+Specialist" />
 </p>
-
-
-
-
-# 👋 Hey there, I'm Krishnam Agrawal
-
-
-🚀 **DevOps Engineer | DevSecOps Enthusiast | Automation Lover**
 
 🔐 Securing pipelines | ⚙️ Automating everything | ☁️ Building scalable systems
 

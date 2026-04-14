@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hey there, I'm Krishnam Agrawal
 
-<!--
-**krishnam07/krishnam07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps Engineer | DevSecOps Enthusiast | Automation Lover**
+🔐 Securing pipelines | ⚙️ Automating everything | ☁️ Building scalable systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+💼 5+ Years of experience in DevOps & Infrastructure
+🔐 Passionate about **DevSecOps & Secure CI/CD Pipelines**
+⚡ Specialized in **Air-Gapped Secure Environments**
+📦 Strong hands-on with **containerization & orchestration**
+📊 Focused on **monitoring, performance & reliability**
+
+---
+
+## 🚀 What I Do
+
+✔️ Build and optimize **CI/CD pipelines**
+✔️ Integrate **security at every stage (Shift Left Security)**
+✔️ Manage **production infrastructure & uptime**
+✔️ Automate deployments using modern DevOps tools
+✔️ Monitor systems & detect anomalies in real-time
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚙️ DevOps & Cloud
+
+`Jenkins` • `Docker` • `Kubernetes` • `Linux`
+
+### 🔐 Security
+
+`SonarQube` • `Trivy` • `OWASP`
+
+### 📊 Monitoring & Logging
+
+`Grafana` • `Loki` • `Promtail`
+
+---
+
+## 🔥 Featured Work
+
+🚀 **Air-Gapped DevSecOps Platform**
+
+* Designed secure CI/CD pipeline without internet access
+* Integrated **code scanning + container security**
+* Ensured **zero external dependency risk**
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn: https://linkedin.com/in/kd07/
+📧 Email: krishnamagrawal7@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+💡 *"I don't just deploy applications, I secure and automate the entire lifecycle."*
+
+---

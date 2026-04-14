@@ -1,16 +1,23 @@
 # 👋 Hey there, I'm Krishnam Agrawal
 
+
 🚀 **DevOps Engineer | DevSecOps Enthusiast | Automation Lover**
+
 🔐 Securing pipelines | ⚙️ Automating everything | ☁️ Building scalable systems
+
 
 ---
 
 ## 🧑‍💻 About Me
 
 💼 5+ Years of experience in DevOps & Infrastructure
+
 🔐 Passionate about **DevSecOps & Secure CI/CD Pipelines**
+
 ⚡ Specialized in **Air-Gapped Secure Environments**
+
 📦 Strong hands-on with **containerization & orchestration**
+
 📊 Focused on **monitoring, performance & reliability**
 
 ---
@@ -18,9 +25,13 @@
 ## 🚀 What I Do
 
 ✔️ Build and optimize **CI/CD pipelines**
+
 ✔️ Integrate **security at every stage (Shift Left Security)**
+
 ✔️ Manage **production infrastructure & uptime**
+
 ✔️ Automate deployments using modern DevOps tools
+
 ✔️ Monitor systems & detect anomalies in real-time
 
 ---
@@ -54,6 +65,7 @@
 ## 🌐 Connect With Me
 
 💼 LinkedIn: https://linkedin.com/in/kd07/
+
 📧 Email: krishnamagrawal7@gmail.com
 
 ---
